@@ -1,0 +1,54 @@
+{
+  "auto_complete": false,
+  "class": "tab_label",
+  "close_windows_when_empty": false,
+  "draw_white_space": "all",
+  "fg":
+  [
+    245,
+    100,
+    90
+  ],
+  "find_selected_text": true,
+  "fold_buttons": false,
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    "_build",
+    "dist",
+    "build",
+    "site"
+  ],
+  "font_face": "Ubuntu Mono",
+  "font_options":
+  [
+    "subpixel_antialias"
+  ],
+  "font_size": 22.0,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "parents":
+  [
+    {
+      "attributes":
+      [
+        "dirty"
+      ],
+      "class": "tab_control"
+    }
+  ],
+  "settings":
+  [
+    "highlight_modified_tabs"
+  ],
+  "soda_classic_tabs": true,
+  "theme": "Soda Dark.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
