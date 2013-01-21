@@ -22,12 +22,12 @@
     "build",
     "site"
   ],
-  "font_face": "Ubuntu Mono",
+  "font_face": "Verdana",
   "font_options":
   [
     "subpixel_antialias"
   ],
-  "font_size": 22.0,
+  "font_size": 12.0,
   "highlight_line": true,
   "ignored_packages":
   [
@@ -47,8 +47,8 @@
   [
     "highlight_modified_tabs"
   ],
+  "tab_size": 2,
   "soda_classic_tabs": true,
-  "theme": "Soda Dark.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true
 }
