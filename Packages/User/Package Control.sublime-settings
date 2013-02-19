@@ -1,0 +1,35 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Autocomplete Javascript with Method Signature",
+		"BufferScroll",
+		"ChangeQuotes",
+		"CoffeeScript",
+		"ColorPick",
+		"Compass",
+		"CSS Snippets",
+		"DetectSyntax",
+		"Expand Selection to Quotes",
+		"Jade",
+		"JavaScript Snippets",
+		"JsFormat",
+		"LESS",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"Sass",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"Stylus",
+		"Theme - Nexus",
+		"Theme - Pseudo OSX",
+		"Theme - Soda",
+		"Toggle Symbol to String",
+		"ToggleQuotes",
+		"Tomorrow Color Schemes",
+		"YUI Compressor"
+	]
+}
