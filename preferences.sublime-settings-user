@@ -1,54 +1,58 @@
 {
-  "auto_complete": false,
-  "class": "tab_label",
-  "close_windows_when_empty": false,
-  "draw_white_space": "all",
-  "fg":
-  [
-    245,
-    100,
-    90
-  ],
-  "find_selected_text": true,
-  "fold_buttons": false,
-  "folder_exclude_patterns":
-  [
-    ".svn",
-    ".git",
-    ".hg",
-    "CVS",
-    "_build",
-    "dist",
-    "build",
-    "site"
-  ],
-  "font_face": "Verdana",
-  "font_options":
-  [
-    "subpixel_antialias"
-  ],
-  "font_size": 12.0,
-  "highlight_line": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "parents":
-  [
-    {
-      "attributes":
-      [
-        "dirty"
-      ],
-      "class": "tab_control"
-    }
-  ],
-  "settings":
-  [
-    "highlight_modified_tabs"
-  ],
-  "tab_size": 2,
-  "soda_classic_tabs": true,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"default_encoding": "UTF-8",
+	"draw_white_space": "all",
+	"fallback_encoding": "UTF8-8",
+	"fg":
+	[
+		245,
+		100,
+		90
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"_build",
+		"dist",
+		"build",
+		"site"
+	],
+	"font_face": "Menlo",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 16.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"parents":
+	[
+		{
+			"attributes":
+			[
+				"dirty"
+			],
+			"class": "tab_control"
+		}
+	],
+	"settings":
+	[
+		"highlight_modified_tabs"
+	],
+	"show_full_path": true,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme"
 }
