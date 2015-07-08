@@ -1,8 +1,7 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
 	"default_encoding": "UTF-8",
 	"draw_white_space": "all",
 	"fallback_encoding": "UTF8-8",
@@ -13,27 +12,27 @@
 		90
 	],
 	"find_selected_text": true,
-	"fold_buttons": false,
+	"fold_buttons": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
 		".git",
 		".hg",
 		"CVS",
-		"_build",
 		"dist",
-		"build",
-		"site"
+		"node_modules",
+		".sass-cache"
 	],
-	"font_face": "Menlo",
+	"font_face": "Ubuntu Mono",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 16.0,
+	"font_size": 20.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"parents":
@@ -50,9 +49,7 @@
 	[
 		"highlight_modified_tabs"
 	],
-	"show_full_path": true,
-	"soda_classic_tabs": false,
-	"soda_folder_icons": true,
+	"show_full_path": false,
 	"tab_size": 2,
-	"theme": "Soda Light 3.sublime-theme"
+	"theme": "Brogrammer.sublime-theme"
 }
