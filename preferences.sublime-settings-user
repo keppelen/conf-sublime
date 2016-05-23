@@ -1,7 +1,7 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 	"default_encoding": "UTF-8",
 	"draw_white_space": "all",
 	"fallback_encoding": "UTF8-8",
@@ -19,16 +19,16 @@
 		".git",
 		".hg",
 		"CVS",
+		".sass-cache",
+		"build",
 		"dist",
-		"node_modules",
-		".sass-cache"
+		"node_modules"
 	],
-	"font_face": "Ubuntu Mono",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 20.0,
+	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -50,6 +50,16 @@
 		"highlight_modified_tabs"
 	],
 	"show_full_path": false,
+	"syntaxes":
+	[
+		{
+			"extensions":
+			[
+				"*.js"
+			],
+			"name": "Babel/JavaScript"
+		}
+	],
 	"tab_size": 2,
-	"theme": "Brogrammer.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme"
 }
